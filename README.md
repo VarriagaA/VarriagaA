@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Areli Vargas
+- 👀 I’m interested in Learning Java through CS 139
